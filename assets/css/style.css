@@ -1,0 +1,46 @@
+.big-banner{
+    background-image: url("../img/VR.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.navbar .d-flex h4{
+    font-weight: bolder;
+    font-size: 1.9rem;
+    
+}
+
+.navbar .navbar-nav .nav-item a{
+    font-weight: bold;
+}
+
+.container .items .item1 h1{
+    font-weight: bold;
+    font-family: calibri;
+    font-size: 4vw;
+    
+}
+.container .items .item1 p{
+    font-size: 1.2rem;
+    font-family: calibri;
+}
+
+
+
+
+.navbar .navbar-nav  .nav-item a:hover{
+    border-bottom: 1.5px solid #ffffff;    
+}
+
+
+.card{
+    border: none;
+}
+
+.card:hover{
+    box-shadow: 0px 10px 14px rgb(255, 255, 255); ;
+}
